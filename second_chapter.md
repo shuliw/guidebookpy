@@ -24,4 +24,4 @@ Please remember to properly configure Sublime Text. I referrred to below guide f
 [Setting up Sublime Text for Python development](https://dbader.org/blog/setting-up-sublime-text-for-python-development)
 
 
-If any issue arises in 
+If any issue arises in the future I will update this chapter later. 

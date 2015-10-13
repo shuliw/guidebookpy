@@ -1,3 +1,15 @@
-# First Chapter
+## Chapter 1 Why GitBook
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+* 
+It can be integrated with Github.
+* 
+Writing with GitBook is easy. 
+* 
+It is my homework to create a guidebook on GitBook.
+
+
+
+
+
+
+

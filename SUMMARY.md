@@ -2,6 +2,6 @@
 
 * [Introduction](README.md)
 * [First Chapter](chapter1.md)
-* [Second Chapter](second_chapter.md)
-* [Third Chapter](thirdchapter_md.md)
+* [Second Chapter](chapter2.md)
+* [Third Chapter](chapter3.md)
 

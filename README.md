@@ -1,4 +1,4 @@
-My Awesome Book
+My First Book on Git Book
 =======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This is a guidebook on Gitbook and Github built from Shuli's own experience. 

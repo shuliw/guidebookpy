@@ -1,11 +1,6 @@
-# Chapter 1 Why GitBook
+# Chapter 1 GitBook & GitHub
 
-* 
-It can be integrated with Github.
-* 
-Writing with GitBook is easy. 
-* 
-It is my homework at [OMOOC2PY](https://github.com/OpenMindClub/OMOOC2py) to create a guidebook on GitBook.
+GitHub is used as a major channel in the course of  [OMOOC2PY](https://github.com/OpenMindClub/OMOOC2py).
 
 
 

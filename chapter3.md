@@ -25,3 +25,5 @@ Forked template repository to my [GitHub](https://github.com/shuliw)
 * Created first book on GitBook.
 * 
 Configured [DISQUS plug-in](https://disqus.com/) (not tested though)
+
+*to be continued*

@@ -1,4 +1,4 @@
-## Chapter 1 Why GitBook
+# Chapter 1 Why GitBook
 
 * 
 It can be integrated with Github.

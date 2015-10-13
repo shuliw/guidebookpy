@@ -1,2 +1,2 @@
-# Third Chapter
+# Chapter 3 Python Journal
 

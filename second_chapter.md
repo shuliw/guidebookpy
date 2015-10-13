@@ -2,7 +2,7 @@
 
 There are tons of guides, instructions and manuals on GitBook and GitHub. But I decide to teach myself by actually using it, rather than to be confused by reading too many guides. 
 
-I created my first GitBook and it is surprisingly user friendly it is. 
+I created my first GitBook and it is surprisingly user friendly 
 
 
 ## Software Installed
